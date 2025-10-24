@@ -21,6 +21,4 @@ Analyzed customer reviews and delivery performance of India’s top fast deliver
 <img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/f5ed947a-3242-47e7-bc9c-5440974bc578" />
 
 ### 📂 Dataset
-Source: Custom dataset based on Flipkart reviews (cleaned & formatted for analysis)
-
----
+Source: Kaggle
